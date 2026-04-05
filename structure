@@ -1,0 +1,28 @@
+music_bot/
+├── bot.py                  # Точка входа, инициализация бота и диспетчера
+├── config.py               # Токен и настройки
+├── models.py               # SQLAlchemy модели (User, Genre, Track, Rating, Producer, MusicFact)
+├── db.py                   # Инициализация БД, сессия, загрузка данных из JSON
+├── music_provider.py       # Методы для получения данных из БД (треки, жанры, продюсеры, факты)
+├── recommendation.py       # Логика выбора трека (пока случайная, позже умная)
+├── keyboards.py            # Клавиатуры (inline кнопки)
+├── scheduler.py            # Планировщик ежедневной рассылки
+├── state.py                # (не обязателен) для хранения временных данных в памяти
+├── data/                   # JSON-файлы с начальными данными
+│   ├── genres.json
+│   ├── tracks.json
+│   ├── producers.json
+│   └── facts.json
+├── handlers/               # Обработчики команд и callback-запросов
+│   ├── __init__.py
+│   ├── start.py
+│   ├── random.py
+│   ├── rate.py
+│   ├── history.py
+│   ├── skip.py
+│   ├── producer.py
+│   ├── fact.py
+│   ├── subscribe.py
+│   └── callback.py         # Все inline-кнопки
+└── utils/                  # Вспомогательные модули (пока пусто)
+    └── __init__.py

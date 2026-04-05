@@ -1,0 +1,17 @@
+[
+    {"id": 1, "name": "Blackgaze", "description": "Смесь блэк-метала и шугейза"},
+    {"id": 2, "name": "Darkwave", "description": "Пост-панк с мрачной электроникой"},
+    {"id": 3, "name": "Math Rock", "description": "Сложные ритмы и нестандартные такты"},
+    {"id": 4, "name": "Folktronica", "description": "Фолк с электронными элементами"},
+    {"id": 5, "name": "Dream Pop", "description": "Атмосферный, сновидческий поп"},
+    {"id": 6, "name": "Trip Hop", "description": "Даунтемпо с хип-хоп битами"},
+    {"id": 7, "name": "Noise Rock", "description": "Экспериментальный рок с шумовыми эффектами"},
+    {"id": 8, "name": "Ethereal Wave", "description": "Женский вокал, синтезаторы, мрачная романтика"},
+    {"id": 9, "name": "Krautrock", "description": "Немецкий экспериментальный рок 70-х"},
+    {"id": 10, "name": "Psychedelic Folk", "description": "Фолк с психоделическим звучанием"},
+    {"id": 11, "name": "Dark Ambient", "description": "Мрачная атмосферная музыка"},
+    {"id": 12, "name": "Vaporwave", "description": "Ностальгическая, замедленная электроника"},
+    {"id": 13, "name": "Sound Collage", "description": "Экспериментальные нарезки"},
+    {"id": 14, "name": "Jangle Pop", "description": "Звонкие гитары, мелодичный поп-рок"},
+    {"id": 15, "name": "Post-Rock", "description": "Инструментальный рок с нарастающими структурами"}
+]

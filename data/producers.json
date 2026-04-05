@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Brian Eno",
+        "bio": "Британский музыкант, композитор и продюсер, один из пионеров эмбиента. Работал с U2, David Bowie, Talking Heads.",
+        "wiki_url": "https://ru.wikipedia.org/wiki/Ино,_Брайан",
+        "source": "wikipedia"
+    },
+    {
+        "name": "Rick Rubin",
+        "bio": "Американский продюсер, сооснователь Def Jam Recordings. Работал с Beastie Boys, Red Hot Chili Peppers, Johnny Cash, Kanye West.",
+        "wiki_url": "https://ru.wikipedia.org/wiki/Рубин,_Рик",
+        "source": "wikipedia"
+    },
+    {
+        "name": "Quincy Jones",
+        "bio": "Легендарный американский продюсер, аранжировщик, композитор. Продюсировал альбомы Michael Jackson (Thriller, Bad).",
+        "wiki_url": "https://ru.wikipedia.org/wiki/Джонс,_Куинси",
+        "source": "wikipedia"
+    },
+    {
+        "name": "SOPHIE",
+        "bio": "Шотландский продюсер, певица, ключевая фигура гиперпопа. Работала с Charli XCX, Vince Staples. Умерла в 2021 году.",
+        "wiki_url": "https://ru.wikipedia.org/wiki/SOPHIE",
+        "source": "wikipedia"
+    },
+    {
+        "name": "J Dilla",
+        "bio": "Американский хип-хоп продюсер, один из самых влиятельных в андерграунде. Известен своим уникальным стилем сэмплирования.",
+        "wiki_url": "https://ru.wikipedia.org/wiki/J_Dilla",
+        "source": "wikipedia"
+    }
+]

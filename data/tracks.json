@@ -1,0 +1,10 @@
+[
+    {"title": "Alcest - Souvenirs d'un autre monde", "artist": "Alcest", "genre_id": 1, "url": "https://youtu.be/example1", "source": "youtube"},
+    {"title": "Deafheaven - Dream House", "artist": "Deafheaven", "genre_id": 1, "url": "https://youtu.be/example2", "source": "youtube"},
+    {"title": "Clan of Xymox - A Day", "artist": "Clan of Xymox", "genre_id": 2, "url": "https://youtu.be/example3", "source": "youtube"},
+    {"title": "She Past Away - Kasvetli Kutlama", "artist": "She Past Away", "genre_id": 2, "url": "https://youtu.be/example4", "source": "youtube"},
+    {"title": "Totorro - Home Alone", "artist": "Totorro", "genre_id": 3, "url": "https://youtu.be/example5", "source": "youtube"},
+    {"title": "Toe - Goodbye", "artist": "Toe", "genre_id": 3, "url": "https://youtu.be/example6", "source": "youtube"},
+    {"title": "Four Tet - She Moves She", "artist": "Four Tet", "genre_id": 4, "url": "https://youtu.be/example7", "source": "youtube"},
+    {"title": "Tunng - Bullets", "artist": "Tunng", "genre_id": 4, "url": "https://youtu.be/example8", "source": "youtube"}
+]
